@@ -1,7 +1,7 @@
 #MAGeCK.Pathway.Analysis
 #Wed Apr 12 17:12:23 PDT 2017
 JVMLevel=
-LSID=urn\:lsid\:8080.ckmah.137.110.95.197\:genepatternmodules\:26\:1
+LSID=urn\:lsid\:broad.mit.edu\:cancer.software.genepattern.module.analysis\:00366
 author=Clarence Mah;Mesirov Lab
 categories=CRISPR
 commandLine=<run-with-env> -u mageck/0.5.5 mageck pathway --gene-ranking <gene.ranking> <single.ranking> <pathways.file> <output.prefix> <sort.criteria> <ranking.column> <ranking.column.2> <keep.intermediate.files>
